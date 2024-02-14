@@ -1,0 +1,6 @@
+For prorgam to run haarcascade_frontalface_default.xml must be saved in the code folder
+To add images create a folder called image - line 8 of faces-train
+To add particpants to be identified create sub folders in the 'image' folder, the name of the folder will be used for the identifcation
+Add images of participants into the relevant subfolder
+To run program first the faces-train needs to be ran
+After faces-train has been run, faces can then be run in order to make an identifcation from the live feed of the webcam
